@@ -3,6 +3,8 @@
 an STM32L433-based, MicroPython-capable board in Arduino Nano-like form factor which adds a 128x32 px OLED display.
 
 ![](FoxPill/img/004.jpg)
+![](FoxPill/img/003.jpg)
+
 
 ### Schematic
 
