@@ -9,7 +9,7 @@ an STM32L433-based, MicroPython-capable board in Arduino Nano-like form factor w
 ![](FoxPill/img/FoxPill_1.3_schematic.PNG)
 
 
-[schematic pdf](FoxPill/pdf/FoxPill-1.3_OLED_layout.pdf)
+[schematic pdf](FoxPill/pdf/FoxPill-1.3_OLED_schematic.pdf)
 
 
 ### Board
